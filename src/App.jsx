@@ -17,5 +17,5 @@ const App = () =>{
       <h1 className="h">{ctime}</h1>
       </>
     );
-};
+};  
 export default App;
